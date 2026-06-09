@@ -23,7 +23,7 @@
 
 2. **Project Setup:**
    - NetBeans এ Project Open করো
-   - `DBConnection.java` ফাইলে MySQL Username & Password দাও
+   - `DBConnection.java` 
    - MySQL Connector JAR File Add করো
 
 3. **Run:**
